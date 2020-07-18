@@ -694,7 +694,7 @@ section.background_bg_bottom {
 }
 
 .dark_gray.white_fonts h2 {
-	color: #0A2463 !important;
+	color: #2d51a3 !important;
 }
 
 .dark_gray.light_silver_fonts h2 {
@@ -774,7 +774,7 @@ hr.dottad_border {
 	margin: 20px auto 0;
 	width: 80px;
 	height: 5px;
-	background: #0A2463;
+	background: #2d51a3;
 }
 
 .main_heading.text_align_left::after {
@@ -2168,7 +2168,7 @@ section.dottad_star_bg {
 
 .counter i {
 	font-size: 70px;
-	color: #0A2463;
+	color: #2d51a3;
 }
 
 .margin_bottom_30 {
@@ -2418,8 +2418,8 @@ span.skill {
 
 #accordion .panel.panel-default .panel-heading p a[aria-expanded="true"],
 #accordion .panel.panel-default:nth-child(1) .panel-heading p a {
-	background: #0A2463;
-	border-color: #0A2463;
+	background: #2d51a3;
+	border-color: #2d51a3;
 	color: #fff;
 }
 
@@ -2448,7 +2448,7 @@ span.skill {
 }
 
 #accordion .panel.panel-default .panel-heading p a[aria-expanded="false"] i {
-	color: #0A2463 !important;
+	color: #2d51a3 !important;
 }
 
 #accordion .panel.panel-default .panel-heading p a[aria-expanded="false"] i.fa-angle-down {
@@ -2488,7 +2488,7 @@ span.skill {
 
 #accordion .panel.panel-default .panel-heading p a>i {
 	font-size: 20px;
-	color: #0A2463;
+	color: #2d51a3;
 	margin: 0 10px 0 0;
 }
 
@@ -2765,7 +2765,7 @@ span.skill {
 .tags a:hover,
 .tags a:focus {
 	color: #fff !important;
-	border: solid #0A2463 1px !important;
+	border: solid #2d51a3 1px !important;
 }
 
 .tags li {
@@ -3112,7 +3112,7 @@ span.skill {
 .product_list:hover,
 .product_list:focus {
 	box-shadow: 0 0 25px -17px #000;
-	border-bottom: solid #0A2463 5px;
+	border-bottom: solid #2d51a3 5px;
 }
 
 .product_img {
@@ -3732,8 +3732,8 @@ footer ul.social_icons {
 
 .team_blog_colum:hover,
 .team_blog_colum:focus {
-	background: #0A2463;
-	border-color: #0A2463;
+	background: #2d51a3;
+	border-color: #2d51a3;
 }
 
 .team_blog_colum:hover h4,
@@ -3756,8 +3756,8 @@ footer ul.social_icons {
 	font-size: 40px;
 	color: #fff;
 	transition: ease all 0.5s;
-	border: solid #0A2463 2px;
-	background: #0A2463;
+	border: solid #2d51a3 2px;
+	background: #2d51a3;
 }
 
 .service_blog_inner2 {
@@ -3767,9 +3767,9 @@ footer ul.social_icons {
 
 .service_blog_inner2:hover .icon,
 .service_blog_inner2:focus .icon {
-	border: solid #0A2463 2px;
+	border: solid #2d51a3 2px;
 	background: #fff;
-	color: #0A2463;
+	color: #2d51a3;
 }
 
 .topbar-hightlight a {
